@@ -2,7 +2,7 @@
 victims of the Martial Law regime under Ferdinand Marcos Sr., as published in https://hrvvmemcom.gov.ph/mandate-function/
 
 Purpose: 
-Archvie of original site and simple scrape of the names of the victims of martial law. Recordkeeping in the event of possible historical revisionism of martial law history due to the impending regime of president-elect Bongbong Marcos (son of Ferdinand Marcos Sr.).
+Archive of original site and simple scrape of the names of the victims of martial law. Recordkeeping in the event of possible historical revisionism of martial law history due to the impending regime of president-elect Bongbong Marcos (son of Ferdinand Marcos Sr.).
 
 Overview:
 Names of victims in accordance with RA 10368. Point system was created as reference to allocating reparations to the victims, 10 being the most severe (death and enforced disappearance) to 1 (involuntary exile involving intimidation and physical injuries). Victim name list for cases 1 to 5 were not preserved (including the original database for the  Claims Board), however the total tally per case is published in the Memorial site. 
